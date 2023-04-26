@@ -1,3 +1,4 @@
+[⬅Voltar](https://memorise-codigos.github.io)
 # Linguagem zsh para terminal
 A Zsh (Z shell) é uma poderosa shell de linha de comando que oferece muitos recursos e personalizações em comparação com as shells padrão, como Bash e Tcsh. A Zsh está disponível no Linux e no macOS por padrão e é altamente personalizável e extensível por meio de plugins e temas. Neste manual, forneceremos uma visão geral dos recursos básicos da Zsh e como usá-la efetivamente.
 ## Instalação
