@@ -46,3 +46,6 @@ Para ativar um tema, defina a variável ZSH_THEME como o nome do tema desejado. 
 - `ZSH_THEME="agnoster"`
 ## Conclusão
 A Zsh é uma poderosa shell de linha de comando que oferece muitos recursos e personalizações em comparação com as shells padrão. Com o conhecimento básico deste manual, você pode começar a usar a Zsh de forma efetiva e personalizá-la de acordo com suas necessidades. Além disso, com plugins e temas adicionais, você pode estender ainda mais a funcionalidade da Zsh e personalizar sua aparência.
+
+
+             By Memorise o código
